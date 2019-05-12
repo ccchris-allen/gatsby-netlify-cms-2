@@ -1,6 +1,7 @@
 ---
 templateKey: past-meetups-page
 title: What are the Duggers up to today?
+path: /meetups
 seo:
   browserTitle: Past Meetups | JS Wakanda
   description: View the topics that were presented at past JavaScript Montreal meetups.
