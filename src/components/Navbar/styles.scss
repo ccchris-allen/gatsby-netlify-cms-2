@@ -1,7 +1,7 @@
 @import "../../styles/variables.scss";
 
 .navbar {
-  background-color: 'gold'; /*$background-dark;*/
+  background-color: $background-dark;
   height: $navbar-height;
 
   &-container {
